@@ -1,0 +1,11 @@
+Pat yourself on the back, now you know how to start with an empty file and fill it with working C++ code.
+
+In the last lesson we learned that we need to include a header #include iostream to get functions which can do input  output.
+
+For other new concepts, you will need to include other headers like #include string, #include vector etc. This can become difficult to remember when you want to focus on writing code.
+
+To help us there, we have a special header #include<bits/stdc++.h>, if you include this, all the necessary headers will get added automatically and you don't have to worry about including anything else.
+
+From now own, we will be using this header, instead of #include iostream.
+
+Click on Next to continue.
